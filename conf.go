@@ -5,7 +5,7 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/free5gc/path_util"
+	"github.com/omec-project/path_util"
 )
 
 var Free5gcLogDir string = path_util.Free5gcPath("free5gc/log") + "/"

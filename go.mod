@@ -1,5 +1,5 @@
-module github.com/free5gc/logger_conf
+module github.com/omec-project/logger_conf
 
 go 1.14
 
-require github.com/free5gc/path_util v1.0.0
+require github.com/omec-project/path_util v1.1.0

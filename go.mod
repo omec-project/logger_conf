@@ -2,7 +2,7 @@ module github.com/omec-project/logger_conf
 
 go 1.21
 
-require github.com/omec-project/util v1.0.13-0.20240207024358-eb30f7e970e8
+require github.com/omec-project/util v1.0.13
 
 require (
 	github.com/antonfisher/nested-logrus-formatter v1.3.1 // indirect
